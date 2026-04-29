@@ -9,7 +9,8 @@ This replication is designed to be executed autonomously by a Claude Code AI age
 
 ## Working Directory Structure
 The workspace is organized to separate the original replication materials, the agent's working notes, and the final analytical outputs.
-
+For copyright concern, please download original paper and replication file from publisher's website and place them under file /orig/MktS_2025.
+As the replicated paper is under open assess license, we provide it in the files.
 ```text
 ai_assessment_7/
 ├── INSTRUCTIONS.md                               # Master prompt and phase definitions for the Claude agent
